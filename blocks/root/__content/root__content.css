@@ -1,4 +1,6 @@
 .root__content {
     display: flex;
     flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
 }

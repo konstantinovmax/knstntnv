@@ -1,0 +1,10 @@
+@import url(./__title/section-one__title.css);
+@import url(./__subtitle/section-one__subtitle.css);
+
+.section-one {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

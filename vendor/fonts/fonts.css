@@ -1,17 +1,17 @@
 @font-face {
-    font-family: 'Inter';
+    font-family: 'Helvetica Neue';
     font-weight: 400;
-    src: url(./Inter-Regular.otf);
+    src: url(./HelveticaNeueCyr-Light.ttf);
 }
 
 @font-face {
-    font-family: 'Inter';
+    font-family: 'Helvetica Neue';
     font-weight: 700;
-    src: url(./Inter-Bold.otf);
+    src: url(./HelveticaNeueCyr-Medium.ttf);
 }
 
 @font-face {
-    font-family: 'Inter';
+    font-family: 'Helvetica Neue';
     font-weight: 900;
-    src: url(./Inter-Black.otf);
+    src: url(./HelveticaNeueCyr-Bold.ttf);
 }

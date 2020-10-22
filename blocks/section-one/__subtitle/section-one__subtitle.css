@@ -1,0 +1,15 @@
+.section-one__subtitle {
+    margin: 0;
+    margin-top: 20px;
+    font-family: 'Helvetica Neue';
+    font-weight: 400;
+    font-size: 22px;
+    color: #0278FE;
+    text-align: center;
+}
+
+@media screen and (max-width: 400px) {
+    .section-one__subtitle {
+        font-size: 14px;
+    }
+}

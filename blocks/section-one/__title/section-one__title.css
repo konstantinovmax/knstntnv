@@ -1,0 +1,20 @@
+.section-one__title {
+    margin: 0;
+    font-family: 'Helvetica Neue';
+    font-weight: 900;
+    font-size: 48px;
+    color: #0278FE;
+    text-align: center;
+}
+
+.section-one__title:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity ease .2s;
+}
+
+@media screen and (max-width: 400px) {
+    .section-one__title {
+        font-size: 40px;
+    }
+}
