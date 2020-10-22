@@ -1,12 +1,10 @@
 .section-one__title {
     margin: 0;
-    font-family: 'Helvetica Neue';
     font-weight: 900;
-    font-size: 48px;
-    color: #fefefe;
+    font-size: 100px;
     text-align: center;
     text-shadow: none;
-    
+    max-width: 220px;
 }
 
 .section-one__title:hover {
