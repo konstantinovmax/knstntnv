@@ -3,14 +3,15 @@
     font-family: 'Helvetica Neue';
     font-weight: 900;
     font-size: 48px;
-    color: #fff;
+    color: #fefefe;
     text-align: center;
     text-shadow: none;
+    
 }
 
 .section-one__title:hover {
     cursor: pointer;
-    color: #00b9ee;
+    color: #b3a577;
     transition: opacity ease .3s;
 }
 
