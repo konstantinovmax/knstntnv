@@ -1,0 +1,20 @@
+.button {
+    margin: 0;
+    font-weight: 400;
+    font-size: 24px;
+    color: #fefefe;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 12px;
+}
+
+.button:hover {
+    color: #b3a577;
+    transition: opacity ease .3s;
+}
+
+@media screen and (max-width: 400px) {
+    .button {
+        font-size: 18px;
+    }
+}
