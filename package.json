@@ -2,6 +2,7 @@
   "name": "knstntnv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/konstantinovmax/knstntnv.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
@@ -18,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
