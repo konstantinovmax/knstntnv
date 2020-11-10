@@ -2,9 +2,9 @@
     margin: 0;
     font-weight: 400;
     font-size: 26px;
-    color: #fefefe;
     text-decoration: none;
     text-align: center;
+    color: #000000;
     margin-right: 20px;
 }
 
@@ -13,11 +13,11 @@
 }
 
 .header__menu-link:hover {
-    color: #b3a577;
+    color: #0025ff;
     transition: opacity ease .3s;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
     .header__menu-link {
         font-size: 18px;
     }

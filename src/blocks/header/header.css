@@ -3,10 +3,10 @@
 @import url(./__menu/_active/header__menu-link_active.css);
 
 .header {
+    width: 90%;
     display: flex;
     justify-content: center;
-    width: 100%;
-    margin-top: 34px;
+    margin-top: 20px;
     box-sizing: border-box;
-    border-bottom: 2px solid rgba(179,165,119, .5);
+    border-bottom: 2px solid rgba(0, 37, 255, .6);
 }

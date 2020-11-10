@@ -1,10 +1,10 @@
 .footer__menu-link {
     margin: 0;
     font-weight: 400;
-    font-size: 24px;
-    color: #fefefe;
+    font-size: 18px;
     text-decoration: none;
     text-align: center;
+    color: #000000;
     margin-right: 12px;
 }
 
@@ -13,12 +13,12 @@
 }
 
 .footer__menu-link:hover {
-    color: #b3a577;
+    color: #0025ff;
     transition: opacity ease .3s;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
     .footer__menu-link {
-        font-size: 18px;
+        font-size: 16px;
     }
 }

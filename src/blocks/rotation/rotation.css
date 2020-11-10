@@ -1,0 +1,15 @@
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.rotation {
+    animation-name: rotation;
+    animation-timing-function: steps(5);
+    animation-iteration-count: infinite;
+    animation-duration: 7s;
+}

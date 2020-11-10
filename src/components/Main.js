@@ -3,7 +3,7 @@ import React from 'react';
 function Main() {
   return (
     <section className="section">
-      <h2 className="section__title">МК</h2>
+      <h2 className="section__title rotation">МК</h2>
     </section>
   );
 }
