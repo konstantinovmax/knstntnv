@@ -1,9 +1,11 @@
 import React from 'react';
+import toolImage from '../images/tool.png';
 
 function Main() {
   return (
     <section className="section">
-      <h2 className="section__title rotation">МК</h2>
+      <p className="section__subtitle">Сайт в разработке</p>
+      <img className="section__tool-image rotation" src={ toolImage } />
     </section>
   );
 }

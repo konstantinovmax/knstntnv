@@ -1,5 +1,6 @@
 @import url(./__title/section__title.css);
 @import url(./__subtitle/section__subtitle.css);
+@import url(./__tool-image/section__tool-image.css);
 
 .section {
     height: 100%;
