@@ -33,7 +33,7 @@
     }
 }
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 420px) {
     .footer__menu-link {
         font-size: 12px;
         line-height: 12px;

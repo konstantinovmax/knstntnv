@@ -41,7 +41,7 @@
     }
 }
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 420px) {
     .header__menu-link {
         font-size: 14px;
         line-height: 28px;
