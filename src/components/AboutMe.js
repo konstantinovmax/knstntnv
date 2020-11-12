@@ -3,7 +3,7 @@ import React from 'react';
 function AboutMe() {
   return (
     <div className="section">
-        <p className="section__subtitle">Веб-разработчик</p>
+        <h1 className="section__title">ВЕБ-РАЗРАБОТЧИК</h1>
     </div>
   );
 }

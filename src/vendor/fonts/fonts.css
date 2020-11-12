@@ -1,17 +1,17 @@
 @font-face {
-    font-family: 'Helvetica Neue';
+    font-family: 'IBM Plex Sans';
     font-weight: 400;
-    src: url(./HelveticaNeueCyr-Light.ttf);
+    src: url(./IBMPlexSans-Regular.ttf);
 }
 
 @font-face {
-    font-family: 'Helvetica Neue';
+    font-family: 'IBM Plex Sans';
     font-weight: 700;
-    src: url(./HelveticaNeueCyr-Medium.ttf);
+    src: url(./IBMPlexSans-Medium.ttf);
 }
 
 @font-face {
-    font-family: 'Helvetica Neue';
+    font-family: 'IBM Plex Sans';
     font-weight: 900;
-    src: url(./HelveticaNeueCyr-Bold.ttf);
+    src: url(./IBMPlexSans-BoldItalic.ttf);
 }

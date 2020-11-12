@@ -3,12 +3,25 @@
 /* header, span, div, nav, p, h1, h2, h3, h4, a, section, ul, li, img, iframe {
     outline: 1px solid;
     outline-color: red;
-}
-*/
+} */
 
 .root {
-    background-color: #ffffff;
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     color: #000000;
     margin: 0;
+    background: linear-gradient(130deg, #FB133A, #BA0C6D, #8E068C, #4D4EC4, #33A5DB, #1FE0E9);
+    background-size: 150% 150%;
+    animation: Gradient 20s ease infinite;
+}
+
+@keyframes Gradient {
+    0% {
+    background-position: 0% 100%
+    }
+    50% {
+    background-position: 100% 50%
+    }
+    100% {
+    background-position: 0% 100%
+    }
 }

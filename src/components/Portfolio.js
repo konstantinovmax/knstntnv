@@ -3,7 +3,7 @@ import React from 'react';
 function Portfolio() {
   return (
     <div className="section">
-        <p className="section__subtitle">Список проектов</p>
+        <h1 className="section__title">СПИСОК ПРОЕКТОВ</h1>
     </div>
   );
 }

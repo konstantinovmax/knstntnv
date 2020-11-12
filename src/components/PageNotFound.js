@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function PageNotFound () {
   return (
     <div className="section">
-      <p className="section__subtitle">404 - Страница не найдена</p>
+      <h1 className="section__title">404 - Страница не найдена</h1>
       <Link className="button button_type_to-main" to="/">Назад</Link>
     </div>
   )
