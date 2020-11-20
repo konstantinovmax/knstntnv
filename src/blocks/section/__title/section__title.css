@@ -8,6 +8,7 @@
     font-style: italic;
     text-align: center;
     z-index: 2;
+    cursor: default;
 }
 
 @media screen and (max-width: 1030px) {
