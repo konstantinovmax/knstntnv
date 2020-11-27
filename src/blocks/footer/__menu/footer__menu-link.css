@@ -15,7 +15,7 @@
 }
 
 .footer__menu-link:hover {
-    color: #000000;
+    background-color: #FF4747;
     transition: opacity ease .3s;
 }
 

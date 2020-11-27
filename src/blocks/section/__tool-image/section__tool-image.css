@@ -3,7 +3,7 @@
     height: 300px;
     margin-top: 40px;
     opacity: 0.1;
-    z-index: 1;
+    z-index: 3;
     position: absolute;
 }
 
